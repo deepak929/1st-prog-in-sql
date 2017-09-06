@@ -1,0 +1,15 @@
+my sql -u root -p;
+SHOW DATABASESCREATEuse mytestdb;
+SHOW TABLES
+CREATE TABLE student;
+            sid int(5),
+			snm char(25),
+			sage int(10),
+			gener varchar(10)
+			)
+			CREATE TABLE(`use`INT(1));
+			select * FROM student;
+			INSERT INTO student VALUES("DEEPAK",1,male,27);
+			
+		SELECT * FROM student HWERE SID=3;
+		
